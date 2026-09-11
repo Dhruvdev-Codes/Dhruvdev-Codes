@@ -148,15 +148,15 @@ Cybersecurity
 
 ## 📊 GitHub Statistics
 
+## 📊 GitHub Statistics
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dhruvdev-Codes&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Dhruvdev-Codes&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvdev-Codes&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvdev-Codes&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
 
 </div>
-
----
 
 ## 🐍 Contribution Activity
 
