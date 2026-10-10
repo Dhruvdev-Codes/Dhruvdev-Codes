@@ -1,215 +1,61 @@
 <div align="center">
 
-<!-- Animated Header -->
+  <h1>Hi, I'm Dhruv Upadhyay 👋</h1>
+  <p><strong>Cybersecurity Student & Web Security Developer | B.Tech CSE @ NSUT Delhi</strong></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:111827,100:020617&text=Dhruv%20Upadhyay&fontColor=38bdf8&fontSize=48&fontAlignY=38&desc=Cybersecurity%20%7C%20AI%20%7C%20Software%20Engineering&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+  <p>
+    <a href="https://dhruvdev-codes.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+    <a href="mailto:dhruvupadhyay708937@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/Dhruvdev-codes"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  </p>
 
-<br>
-
-<a href="https://github.com/Dhruvdev-Codes">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Cybersecurity+%7C+AI+%7C+Software+Engineering;M.Tech+Information+Security+Student;Building+secure+and+intelligent+systems;Exploring+Threat+Detection+%26+AI+Security;Researching+the+future+of+cyber+defense" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/Dhruvdev-Codes">
-<img src="https://img.shields.io/github/followers/Dhruvdev-Codes?label=Followers&style=for-the-badge&logo=github&color=38bdf8"/>
-</a>
-<a href="https://github.com/Dhruvdev-Codes">
-<img src="https://img.shields.io/github/stars/Dhruvdev-Codes?label=Stars&style=for-the-badge&logo=github&color=8b5cf6"/>
-</a>
-<a href="https://github.com/Dhruvdev-Codes">
-<img src="https://komarev.com/ghpvc/?username=Dhruvdev-Codes&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS"/>
-</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&lines=Cybersecurity+%26+Threat+Analysis;Full-Stack+%26+Security+Copilots;Three.js+%26+Interactive+Web" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-I'm **Dhruv Upadhyay**, an **M.Tech Information Security student** focused on building secure, intelligent and practical systems.
-
-My interests sit at the intersection of **Cybersecurity, Artificial Intelligence, Network Security and Software Engineering**.
-
-```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│  🔐 Cybersecurity & Threat Detection                 │
-│  🤖 AI / LLM Applications & Security                 │
-│  🌐 Network & Information Security                   │
-│  🧪 Security Research & Experimentation              │
-│  💻 Full-Stack & Software Development                │
-│  ☁️ Cloud & Distributed Systems                      │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
-
-I'm particularly interested in using **AI to improve cybersecurity workflows**, from threat analysis and phishing detection to security automation and intelligent defense systems.
+- 🔭 Currently building **Phish-Guard** (AI Security Copilot) & security applications.
+- 🛡️ Core Interests: **Malware Analysis Sandboxes, Threat Scoring Engines & Web App Security**.
+- 🛠️ Active Stack: **Python, JavaScript, Node.js, WebGL / Three.js, React**.
+- 🎓 Specialization: **Information Security / Cybersecurity** at NSUT Delhi.
 
 ---
 
-## 🛡️ What I'm Working On
-
-* 🔐 AI-assisted cybersecurity tools
-* 🧠 Intelligent phishing & social-engineering detection
-* 🔎 Cyber Threat Intelligence & IOC analysis
-* 🛡️ SOC automation and incident response
-* 🌐 Network security & wireless security
-* 🤖 AI-powered security research
-* ☁️ Secure and scalable cloud systems
-
----
-
-## 🚀 Featured Projects
-
-### 🛡️ Phish-Guard
-
-> **AI & Cognitive Social Engineering Analyzer + Security Awareness Lab**
-
-A cybersecurity platform designed to analyze phishing, spear-phishing, smishing and BEC attacks.
-
-**Highlights**
-
-* 🤖 Multi-model AI threat analysis
-* 📧 Email header & spoofing inspection
-* 🔎 IOC / CTI extraction
-* 🛡️ MITRE ATT&CK mapping
-* 🧪 Security awareness simulator
-* 🚨 SOC incident-response playbooks
-* 🧬 YARA / Sigma / Snort / Suricata rule generation
-* 🌐 Quishing & malicious URL analysis
-* 🧠 AI Cyber Copilot
-* 📊 Incident report generation
-
-**Tech:** `JavaScript` `HTML` `CSS` `AI/LLM` `Cybersecurity` `MITRE ATT&CK`
-
-[![Repository](https://img.shields.io/badge/Repository-Phish--Guard-111827?style=for-the-badge\&logo=github)](https://github.com/Dhruvdev-Codes/phish-guard)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-0ea5e9?style=for-the-badge\&logo=googlechrome)](https://dhruvdev-codes.github.io/phish-guard/)
-
----
-
-### 🤖 Interactive AI Portfolio
-
-> **Technical Portfolio + Interactive AI Assistant**
-
-A research-oriented portfolio combining technical projects, system architecture, research concepts and an interactive AI/RAG assistant.
-
-**Tech:** `Next.js` `React` `TypeScript` `Tailwind CSS` `OpenAI` `Vercel AI SDK` `Upstash Vector`
-
-[![Repository](https://img.shields.io/badge/Repository-Portfolio-111827?style=for-the-badge\&logo=github)](https://github.com/Dhruvdev-Codes/portfolio)
-
----
-
-## 🧰 Tech Stack
-
-### Programming
+### 🛠️ Tech Stack & Skills
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,html,css" />
-</p>
-
-### Cybersecurity & Systems
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github" />
-</p>
-
-`Network Security` • `Threat Intelligence` • `MITRE ATT&CK` • `SOC` • `SIEM` • `CTI` • `Incident Response`
-
-### AI & Data
-
-`Artificial Intelligence` • `LLMs` • `RAG` • `NLP` • `Threat Detection` • `Vector Search`
-
-### Web & Cloud
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,mongodb,mysql,firebase,aws" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
-## 🔬 Research Interests
-
-```text
-Cybersecurity
-     │
-     ├── AI-assisted Threat Detection
-     ├── Social Engineering Defense
-     ├── Cyber Threat Intelligence
-     ├── Network Security
-     ├── Intelligent Security Automation
-     └── AI × Security
-              │
-              └── Building adaptive defense systems
-```
-
----
-
-## 📊 GitHub Statistics
-
-## 📊 GitHub Statistics
+### 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Dhruvdev-Codes&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvdev-Codes&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhruvdev-codes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvdev-codes&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 </div>
 
-
-
-## 🐍 Contribution Activity
+<br/>
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/Dhruvdev-Codes/Dhruvdev-Codes/output/github-contribution-grid-snake-dark.svg">
-
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/Dhruvdev-Codes/Dhruvdev-Codes/output/github-contribution-grid-snake.svg">
-
-  <img alt="GitHub contribution snake"
-       src="https://raw.githubusercontent.com/Dhruvdev-Codes/Dhruvdev-Codes/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvdev-Codes&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/Dhruvdev-Codes">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br><br>
-
-**Building secure systems. Exploring intelligent defense.**
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvdev-codes&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:020617,50:111827,100:0f172a"/>
-
+  <p><i>Thanks for visiting! Feel free to check out my repositories below.</i></p>
 </div>
-
