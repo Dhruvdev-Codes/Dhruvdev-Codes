@@ -1,112 +1,104 @@
 # Hi, I'm Dhruv Upadhyay 👋
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="./dark.svg" alt="Dhruv Upadhyay — Cybersecurity Student, Web Security Developer & AI Copilot Builder">
+</picture>
+
 <p align="center">
-  <b>Cybersecurity Student · Web Security Developer · Full-Stack Engineer · B.Tech CSE @ NSUT Delhi</b>
+  <b>Cybersecurity Student · Web Security Developer · Malware Analysis · AI & Security Copilot Builder</b>
 </p>
 
 <p align="center">
-  <a href="https://dhruvdev-codes.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:dhruvupadhyay708937@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Dhruvdev-codes"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  🛡️ Threat Scoring &nbsp;·&nbsp; 🐍 Python &nbsp;·&nbsp; ⚡ Gemini API &nbsp;·&nbsp; ⚛️ React & Node.js
+  &nbsp;·&nbsp; 🎨 Three.js / WebGL &nbsp;·&nbsp; 🗄️ MongoDB & PostgreSQL &nbsp;·&nbsp; 🐧 Linux
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&lines=Cybersecurity+%26+Threat+Analysis;AI+Security+Copilots+%26+Tools;Full-Stack+Web+Development;Three.js+%26+Interactive+3D+Web;Building+Secure+Systems+%F0%9F%94%90" alt="Typing SVG" />
-</p>
+I build **open-source cybersecurity tools, AI-powered threat analysis copilots, interactive 3D web applications, and scalable full-stack platforms**.
 
-<p align="center">
-  🛡️ Cybersecurity &nbsp;·&nbsp; 🐍 Python &nbsp;·&nbsp; ⚛️ React / Three.js
-  &nbsp;·&nbsp; ⚙️ Node.js &nbsp;·&nbsp; 🗄️ Databases &nbsp;·&nbsp; 🧠 System Design
-</p>
-
-I build **AI-powered security tools, full-stack web applications, interactive 3D experiences, and secure backend systems**.
-
-My current engineering interests sit at the intersection of **Cybersecurity, Threat Analysis, AI/ML security applications, Full-Stack Development, and WebGL/Three.js**.
+My current engineering focus sits at the intersection of **cybersecurity, automated threat scoring, dynamic malware sandboxing, web application security, and client-side AI integration**.
 
 ---
 
-## 🔐 What I Build
+## 🤖 What I Build
 
-- 🧠 **AI Security Copilots** — AI-powered phishing detection, threat analysis and intelligent security workflows
-- 🛡️ **Cybersecurity Tools** — Malware analysis sandboxes, threat scoring engines and web app security scanners
-- 🐍 **Python Systems** — Security APIs, automation scripts, AI services and backend tooling
-- ⚛️ **Full-Stack Applications** — React, Three.js, Node.js and interactive web experiences
-- 🌐 **3D & Interactive Web** — WebGL-powered visualizations, immersive UI/UX with Three.js
-- ⚙️ **Backend Systems** — REST APIs, real-time systems, database design and integrations
-- 📈 **Performance & Security** — Production hardening, vulnerability assessment and system optimization
+- 🛡️ **Cybersecurity Copilots & Security Tools** — Open-source threat detection, AI phishing analysis, and direct API integrations
+- 🧪 **Malware Analysis & Threat Engines** — Sandboxing workflows, CAPEv2 module testing, and automated risk scoring
+- ⚛️ **Full-Stack Security Applications** — Interactive web platforms built with Node.js, Express, React, and MongoDB
+- 🎨 **3D Interactive Web Experiences** — WebGL, Three.js voxel wave visualizers, Framer Motion, and dynamic Vanta.js backgrounds
+- ⚙️ **Developer Automation & Tooling** — Python virtual environment workflows, dynamic API routing, and deployment automation
 
 ---
 
-## 🎓 Education
+## 🎓 Education & Background
 
-### B.Tech Computer Science & Engineering — NSUT Delhi
-**Specialization: Information Security / Cybersecurity**
+### B.Tech in Computer Science Engineering (Specialization in Cybersecurity)
+**Netaji Subhas University of Technology (NSUT), Delhi** | *4th Year Student (Class of 2027)*
 
-- Focused on **web application security, network security and threat intelligence**
-- Building production security tools and AI-powered defense systems
-- Active contributor to cybersecurity research and open-source security projects
+- Specializing in **Information Security, System Defense, and Malware Analysis**
+- Developed and deployed security-focused web tools and custom Python threat processing modules
+- Built dynamic client/server architectures integrating Google Gemini, Groq, and OpenAI models
 
 ---
 
 ## 🧩 Featured Projects
 
-### 🔥 Phish-Guard — AI Security Copilot
-[View Project](https://github.com/Dhruvdev-codes)
+### 🛡️ Phish-Guard — AI Cybersecurity Copilot
+[Live Site](https://dhruvdev-codes.github.io/phish-guard) · [GitHub Repository](https://github.com/Dhruvdev-codes/phish-guard)
 
-An AI-powered security copilot for **real-time phishing detection and threat analysis**.
+Open-source web security copilot offering real-time threat detection and phishing analysis using direct client-side Gemini API routing.
 
-- AI-driven URL & email analysis
-- Threat scoring engine with ML classification
-- Real-time phishing detection workflows
-- Dashboard with analytics and reporting
-- **Python · AI/ML · React · Node.js · Security APIs**
+- Client-side bring-your-own-key dynamic API configuration
+- Fallback resilience for offline threat assessment
+- Interactive UI tailored for security auditing
+- **JavaScript · Google Gemini API · Tailwind CSS · GitHub Pages**
 
-### 🌐 Interactive 3D Portfolio
-[Live Demo](https://dhruvdev-codes.github.io/portfolio)
+### ✍️ SyncScribe — Web Application Platform
+[Live Site](https://dhruvdev-codes.github.io/SyncScribe/)
 
-- Immersive Three.js-powered portfolio experience
-- WebGL 3D scenes and interactive animations
-- Responsive design with modern UI/UX
-- **Three.js · WebGL · JavaScript · Tailwind CSS**
+Web application featuring client-side state synchronization, offline fallback handling, and single-page subpath routing.
 
-### 🛡️ Web Security Scanner
-[GitHub Repository](https://github.com/Dhruvdev-codes)
+- SPA routing optimizations for static hosting environments
+- Client-side persistence and real-time state sync
+- **React · JavaScript · Node.js · GitHub Pages**
 
-- Automated vulnerability scanning for web applications
-- OWASP Top 10 detection and reporting
-- Custom security rule engine
-- **Python · Node.js · Security Tools**
+### 🌐 Personal Portfolio & Visual Labs
+[Live Site](https://dhruvdev-codes.github.io/portfolio)
+
+Interactive developer portfolio featuring 3D voxel grid background animations, Framer Motion tilt effects, and dark spotlight cursor glow.
+
+- High-performance 3D scene rendering and scroll-driven grid waves
+- Dual off-white and dark spotlight aesthetic mode styling
+- **Three.js · Vanta.js · Framer Motion · Tailwind CSS**
 
 ---
 
 ## 🛠️ Engineering Stack
 
-### 🛡️ Cybersecurity
-`Threat Analysis` `Malware Analysis` `Web App Security` `Phishing Detection` `Vulnerability Assessment` `OWASP` `Network Security`
+### 🛡️ Cybersecurity & Analysis
+`Malware Sandboxing` `CAPEv2` `Threat Scoring Engines` `Phishing Analysis` `Web Application Security` `Linux / Bash`
 
-### 🤖 AI / Machine Learning
-`Python` `AI Agents` `ML Classification` `Threat Scoring` `AI Security Copilots`
+### 🤖 AI & API Integration
+`Google Gemini API` `Groq API` `OpenAI API` `Client-side Routing` `AI Security Copilots`
 
-### ⚛️ Frontend
-`React` `Three.js` `WebGL` `JavaScript` `Tailwind CSS` `HTML5` `CSS3`
+### ⚛️ Frontend & 3D Web
+`JavaScript` `React` `Three.js` `WebGL` `Framer Motion` `Vanta.js` `Tailwind CSS`
 
-### ⚙️ Backend
-`Node.js` `Express` `REST APIs` `Python` `FastAPI`
+### ⚙️ Backend & Databases
+`Python` `Node.js` `Express` `MongoDB Atlas` `PostgreSQL` `Upstash Redis`
 
-### 🗄️ Databases
-`PostgreSQL` `MongoDB` `SQL`
-
-### 🔧 Tools & DevOps
-`Git` `Linux` `Docker` `GitHub Actions` `VS Code` `Wireshark` `Burp Suite`
+### ☁️ Tools & Environments
+`Git / GitHub` `VS Code` `VirtualBox` `Linux (Ubuntu)` `Poetry / Pyenv` `Vercel`
 
 ---
 
 ## 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhruvdev-codes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhruvdev-codes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Dhruv's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvdev-codes&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-</div>
+</p>
 
 <br/>
 
@@ -114,33 +106,15 @@ An AI-powered security copilot for **real-time phishing detection and threat ana
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvdev-codes&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
 </div>
 
-<h2 align="center">Contribution Activity</h2>
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Dhruvdev-Codes/Dhruvdev-Codes/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Dhruvdev-Codes/Dhruvdev-Codes/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/Dhruvdev-Codes/Dhruvdev-Codes/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
-</p>
-
 ---
 
 ## 📫 Connect With Me
 
 <p>
-  🌐 <a href="https://dhruvdev-codes.github.io/portfolio">Portfolio</a><br>
-  💻 <a href="https://github.com/Dhruvdev-codes">GitHub</a><br>
+  💼 <a href="https://github.com/Dhruvdev-codes">GitHub Profile</a><br>
+  🌐 <a href="https://dhruvdev-codes.github.io/portfolio">Portfolio Website</a><br>
+  🛡️ <a href="https://dhruvdev-codes.github.io/phish-guard">Phish-Guard Copilot</a><br>
   📧 <a href="mailto:dhruvupadhyay708937@gmail.com">Email</a>
 </p>
 
-> **Build secure systems. Break what needs breaking. Defend what matters. 🔐**
+> **Analyze threats. Build securely. Scale with intent.**
