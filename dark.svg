@@ -349,7 +349,7 @@
       <!-- Name -->
       <text x="0" y="0" class="label-cyan">&gt; Name</text>
       <text x="56" y="0" class="muted-dots">............................</text>
-      <text x="175" y="0" class="white-text" font-weight="500">Vaibhav Khushalani</text>
+      <text x="175" y="0" class="white-text" font-weight="500">Dhruv Upadhyay</text>
 
       <!-- Role -->
       <text x="0" y="20" class="label-cyan">&gt; Role</text>
